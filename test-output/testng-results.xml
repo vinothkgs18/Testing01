@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+    <groups>
+      <group name="Smoke">
+        <method signature="Sample.tc1()[pri:0, instance:test.Sample@26be92ad]" name="tc1" class="test.Sample"/>
+        <method signature="Sample.tc2()[pri:0, instance:test.Sample@26be92ad]" name="tc2" class="test.Sample"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Default test" duration-ms="64" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+      <class name="test.Sample">
+        <test-method status="PASS" signature="bS()[pri:0, instance:test.Sample@26be92ad]" name="bS" is-config="true" duration-ms="21" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bS -->
+        <test-method status="PASS" signature="bT()[pri:0, instance:test.Sample@26be92ad]" name="bT" is-config="true" duration-ms="1" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bT -->
+        <test-method status="PASS" signature="bC()[pri:0, instance:test.Sample@26be92ad]" name="bC" is-config="true" duration-ms="0" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bC -->
+        <test-method status="PASS" signature="bG()[pri:0, instance:test.Sample@26be92ad]" name="bG" is-config="true" duration-ms="0" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bG -->
+        <test-method status="PASS" signature="bM()[pri:0, instance:test.Sample@26be92ad]" name="bM" is-config="true" duration-ms="1" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bM -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:test.Sample@26be92ad]" name="tc1" duration-ms="7" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="aM()[pri:0, instance:test.Sample@26be92ad]" name="aM" is-config="true" duration-ms="1" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aM -->
+        <test-method status="PASS" signature="bM()[pri:0, instance:test.Sample@26be92ad]" name="bM" is-config="true" duration-ms="0" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bM -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:test.Sample@26be92ad]" name="tc2" duration-ms="2" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="aM()[pri:0, instance:test.Sample@26be92ad]" name="aM" is-config="true" duration-ms="1" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aM -->
+        <test-method status="PASS" signature="bM()[pri:0, instance:test.Sample@26be92ad]" name="bM" is-config="true" duration-ms="0" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bM -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:test.Sample@26be92ad]" name="tc3" duration-ms="2" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="aC()[pri:0, instance:test.Sample@26be92ad]" name="aC" is-config="true" duration-ms="1" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aC -->
+        <test-method status="PASS" signature="aM()[pri:0, instance:test.Sample@26be92ad]" name="aM" is-config="true" duration-ms="0" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aM -->
+        <test-method status="PASS" signature="aT()[pri:0, instance:test.Sample@26be92ad]" name="aT" is-config="true" duration-ms="1" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aT -->
+        <test-method status="PASS" signature="aS()[pri:0, instance:test.Sample@26be92ad]" name="aS" is-config="true" duration-ms="0" started-at="2021-11-27T06:06:40Z" finished-at="2021-11-27T06:06:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aS -->
+      </class> <!-- test.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
